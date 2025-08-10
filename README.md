@@ -88,11 +88,6 @@ To explore or replicate this project:
 4. **Dependencies**: No additional libraries required; standard SQL syntax used.
 5. **Output**: Some queries (e.g., Question 3) export to CSV; configure your database’s export path accordingly.
 
-## 📂 Repository Structure
-- `question1.sql` to `question10.sql`: SQL queries for each question.
-- `presentation.pdf`: Slide deck for the project presentation.
-- `video_link.txt`: Link to the presentation video [Insert Your Video Link Here].
-- `README.md`: This file.
 
 ## 📊 Key Recommendations
 - **Prioritize IG Reels**: Allocate resources to Reels for 62% reach and high impressions.
@@ -111,7 +106,7 @@ To explore or replicate this project:
 ## 📬 Connect with Me
 I’d love to hear your feedback or discuss data analytics! Reach out at:
 - **Email**: adityacodecom@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **GitHub**: [https://github.com/AdityaSaiV](https://github.com/AdityaSaiV)
+- **LinkedIn**: [Click Here](https://www.linkedin.com/in/aditya-sai-veligatla-783b64342/)
+- **GitHub**: [Click Here](https://github.com/AdityaSaiV)
 
 Thanks for checking out my project! 🌟 Let’s keep the data conversation going!
