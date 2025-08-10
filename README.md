@@ -1,6 +1,5 @@
 # Tech Instagram Influencer Analysis
-
-![Banner](https://via.placeholder.com/800x200.png?text=Tech+Instagram+Influencer+Analysis)  
+ 
 *SQL-Driven Insights to Optimize Content Strategy and Boost Engagement*
 
 ## 📋 Project Overview
